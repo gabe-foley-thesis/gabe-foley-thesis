@@ -1,4 +1,4 @@
-# Methods for ancestral sequence reconstruction of large and complex protein families
+## Methods for ancestral sequence reconstruction of large and complex protein families
 
-Code repository for Gabriel Foley's thesis.
+Code repository for my thesis.
 
